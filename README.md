@@ -5,7 +5,7 @@ This project uses a Random Forest Classifier to detect fraud in credit card tran
 credit.csv (anonymized features: V1-V28,Time,Amount,and Class)
 Target variable: Class (0 = genuine, 1 = fraud)
 
-⚙️ Project Steps
+⚙️ Project Steps : 
 1. Data Preprocessing
    - Loaded dataset
    - Checked for class imbalance
@@ -21,5 +21,5 @@ Target variable: Class (0 = genuine, 1 = fraud)
    - Plotted confusion matrix and feature importance graph
    - Observed model’s strong ability to detect fraud
      
-📊 Output
-Output image is attached in the file
+📊 Output : 
+output image is attached in the file
