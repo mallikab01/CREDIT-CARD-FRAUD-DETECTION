@@ -1,7 +1,7 @@
-📌 Project Description
+📌 Project Description : 
 This project uses a Random Forest Classifier to detect fraud in credit card transactions. The dataset contains anonymized transaction details. The model identifies key features contributing to fraud detection and evaluates feature importance using MeanDecreaseAccuracy and MeanDecreaseGini.
 
-📁 Dataset
+📁 Dataset : 
 credit.csv (anonymized features: V1-V28,Time,Amount,and Class)
 Target variable: Class (0 = genuine, 1 = fraud)
 
